@@ -1,5 +1,4 @@
 package main
-//иди нахуй
 import (
 	"fmt"
 )
